@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "webparser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shinrenpan/WebParser.git",
+      "state" : {
+        "revision" : "489a865421cb0eb79bd5198db5fb88d89362fa59",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
